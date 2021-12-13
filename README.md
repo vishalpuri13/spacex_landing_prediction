@@ -1,2 +1,3 @@
-# spacex_landing_prediction
+# Predicting successful landing of SpaceX Stage One Rockets
 IBM Capstone Project
+
